@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "Build Successful!"
-Echo "New change"
-Echo "Final Update"
+echo "New change"
+echo "Sakthi Update"
